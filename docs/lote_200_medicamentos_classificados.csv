@@ -1,0 +1,201 @@
+﻿Código,Nome do Medicamento,Dosagem,Classe Farmacológica,Status de Contaminação,Data de Postagem
+M-84941,Dipirona Sódica,1g,Analgésico / Antitérmico,False,2025-10-19
+M-81006,Metformina,850mg,Antidiabético oral,True,2025-10-10
+M-34114,Ibuprofeno,400mg,Anti-inflamatório,False,2025-11-07
+M-28545,Captopril,25mg,Anti-hipertensivo,True,2025-10-07
+M-63341,Atenolol,50mg,Anti-hipertensivo (betabloqueador),True,2025-10-12
+M-64822,Paracetamol,750mg,Analgésico / Antitérmico,False,2025-10-25
+M-41137,Lorazepam,1mg,Ansiolítico / Benzodiazepínico,True,2025-10-19
+M-77507,Clonazepam,2mg,Ansiolítico / Anticonvulsivante,False,2025-10-29
+M-84741,Clonazepam,2mg,Ansiolítico / Anticonvulsivante,False,2025-10-10
+M-32512,Losartana,50mg,Anti-hipertensivo,False,2025-11-08
+M-64286,Amoxicilina,500mg,Antibiótico,False,2025-10-14
+M-96060,Cetirizina,10mg,Antialérgico / Anti-histamínico,False,2025-10-05
+M-54073,Hidroclorotiazida,25mg,Diurético / Anti-hipertensivo,True,2025-10-17
+M-36720,Omeprazol,20mg,Antiulceroso / Inibidor de bomba de prótons,False,2025-10-03
+M-51133,Lorazepam,1mg,Ansiolítico / Benzodiazepínico,False,2025-11-09
+M-47847,Diazepam,5mg,Ansiolítico / Relaxante muscular,True,2025-10-01
+M-11218,Losartana,50mg,Anti-hipertensivo,True,2025-11-01
+M-35398,Atenolol,50mg,Anti-hipertensivo (betabloqueador),False,2025-10-31
+M-53882,Paracetamol,750mg,Analgésico / Antitérmico,True,2025-11-04
+M-59652,Dipirona Sódica,1g,Analgésico / Antitérmico,True,2025-10-08
+M-13928,Diazepam,5mg,Ansiolítico / Relaxante muscular,False,2025-10-31
+M-85705,Atenolol,50mg,Anti-hipertensivo (betabloqueador),True,2025-10-02
+M-25107,Losartana,50mg,Anti-hipertensivo,False,2025-10-11
+M-44060,Metformina,850mg,Antidiabético oral,False,2025-10-11
+M-38446,Prednisona,20mg,Corticoide / Anti-inflamatório,False,2025-10-15
+M-54368,Diazepam,5mg,Ansiolítico / Relaxante muscular,True,2025-10-16
+M-13104,Dipirona Sódica,1g,Analgésico / Antitérmico,False,2025-11-02
+M-64777,Lorazepam,1mg,Ansiolítico / Benzodiazepínico,True,2025-10-19
+M-72747,Simvastatina,20mg,Redutor de Colesterol (Hipolipemiante),False,2025-10-10
+M-75609,Simvastatina,20mg,Redutor de Colesterol (Hipolipemiante),False,2025-11-06
+M-29761,Simvastatina,20mg,Redutor de Colesterol (Hipolipemiante),False,2025-10-04
+M-46921,Azitromicina,500mg,Antibiótico,True,2025-10-28
+M-32078,Dipirona Sódica,1g,Analgésico / Antitérmico,False,2025-10-08
+M-13018,Nimesulida,100mg,Anti-inflamatório,True,2025-11-07
+M-79252,Enalapril,10mg,Anti-hipertensivo,False,2025-10-06
+M-97076,Furosemida,40mg,Diurético,True,2025-11-07
+M-56126,Omeprazol,20mg,Antiulceroso / Inibidor de bomba de prótons,True,2025-11-02
+M-92979,Dipirona Sódica,1g,Analgésico / Antitérmico,False,2025-10-19
+M-98931,Captopril,25mg,Anti-hipertensivo,False,2025-10-18
+M-55438,Omeprazol,20mg,Antiulceroso / Inibidor de bomba de prótons,False,2025-10-04
+M-83367,Ibuprofeno,400mg,Anti-inflamatório,False,2025-10-18
+M-84164,Captopril,25mg,Anti-hipertensivo,True,2025-10-15
+M-93170,Ibuprofeno,400mg,Anti-inflamatório,False,2025-10-19
+M-37970,Cetirizina,10mg,Antialérgico / Anti-histamínico,True,2025-10-17
+M-23068,Prednisona,20mg,Corticoide / Anti-inflamatório,True,2025-10-07
+M-69358,Lorazepam,1mg,Ansiolítico / Benzodiazepínico,False,2025-11-08
+M-98955,Ibuprofeno,400mg,Anti-inflamatório,False,2025-11-06
+M-39607,Ibuprofeno,400mg,Anti-inflamatório,False,2025-10-24
+M-50643,Metformina,850mg,Antidiabético oral,False,2025-10-21
+M-63550,Metformina,850mg,Antidiabético oral,True,2025-10-30
+M-56427,Losartana,50mg,Anti-hipertensivo,True,2025-10-14
+M-76459,Lorazepam,1mg,Ansiolítico / Benzodiazepínico,False,2025-10-30
+M-70942,Lorazepam,1mg,Ansiolítico / Benzodiazepínico,False,2025-11-06
+M-21022,Amoxicilina,500mg,Antibiótico,False,2025-10-20
+M-52564,Diazepam,5mg,Ansiolítico / Relaxante muscular,True,2025-10-12
+M-28389,Furosemida,40mg,Diurético,False,2025-11-02
+M-95611,Nimesulida,100mg,Anti-inflamatório,True,2025-10-21
+M-59265,Ibuprofeno,400mg,Anti-inflamatório,True,2025-11-10
+M-70351,Losartana,50mg,Anti-hipertensivo,False,2025-10-01
+M-18248,Ibuprofeno,400mg,Anti-inflamatório,True,2025-11-03
+M-93104,Diazepam,5mg,Ansiolítico / Relaxante muscular,False,2025-10-09
+M-26583,Prednisona,20mg,Corticoide / Anti-inflamatório,True,2025-11-10
+M-98480,Amoxicilina,500mg,Antibiótico,True,2025-10-01
+M-56863,Dipirona Sódica,1g,Analgésico / Antitérmico,False,2025-10-04
+M-10094,Metformina,850mg,Antidiabético oral,False,2025-10-30
+M-36453,Azitromicina,500mg,Antibiótico,False,2025-10-21
+M-23487,Paracetamol,750mg,Analgésico / Antitérmico,True,2025-10-01
+M-14937,Amoxicilina,500mg,Antibiótico,True,2025-10-20
+M-58855,Captopril,25mg,Anti-hipertensivo,False,2025-11-01
+M-55519,Nimesulida,100mg,Anti-inflamatório,False,2025-11-09
+M-36948,Azitromicina,500mg,Antibiótico,False,2025-11-10
+M-43799,Nimesulida,100mg,Anti-inflamatório,True,2025-10-07
+M-84683,Lorazepam,1mg,Ansiolítico / Benzodiazepínico,False,2025-10-08
+M-62177,Furosemida,40mg,Diurético,True,2025-10-19
+M-45853,Cetirizina,10mg,Antialérgico / Anti-histamínico,True,2025-10-05
+M-70315,Atenolol,50mg,Anti-hipertensivo (betabloqueador),False,2025-10-26
+M-70911,Furosemida,40mg,Diurético,False,2025-10-11
+M-81438,Simvastatina,20mg,Redutor de Colesterol (Hipolipemiante),False,2025-10-17
+M-86474,Dipirona Sódica,1g,Analgésico / Antitérmico,True,2025-10-05
+M-13479,Clonazepam,2mg,Ansiolítico / Anticonvulsivante,False,2025-11-09
+M-98642,Losartana,50mg,Anti-hipertensivo,True,2025-10-17
+M-71017,Clonazepam,2mg,Ansiolítico / Anticonvulsivante,True,2025-10-12
+M-71643,Diazepam,5mg,Ansiolítico / Relaxante muscular,True,2025-10-23
+M-75118,Amoxicilina,500mg,Antibiótico,True,2025-10-16
+M-23537,Nimesulida,100mg,Anti-inflamatório,False,2025-10-28
+M-59813,Dipirona Sódica,1g,Analgésico / Antitérmico,False,2025-10-11
+M-32454,Metformina,850mg,Antidiabético oral,True,2025-10-26
+M-83289,Paracetamol,750mg,Analgésico / Antitérmico,True,2025-10-19
+M-77122,Furosemida,40mg,Diurético,True,2025-10-30
+M-23295,Diazepam,5mg,Ansiolítico / Relaxante muscular,True,2025-10-20
+M-90108,Atenolol,50mg,Anti-hipertensivo (betabloqueador),True,2025-10-15
+M-81349,Atenolol,50mg,Anti-hipertensivo (betabloqueador),False,2025-10-28
+M-95499,Furosemida,40mg,Diurético,True,2025-10-29
+M-49627,Diazepam,5mg,Ansiolítico / Relaxante muscular,False,2025-10-10
+M-82837,Azitromicina,500mg,Antibiótico,True,2025-10-25
+M-39875,Paracetamol,750mg,Analgésico / Antitérmico,True,2025-10-26
+M-82179,Paracetamol,750mg,Analgésico / Antitérmico,False,2025-11-03
+M-76077,Furosemida,40mg,Diurético,True,2025-10-17
+M-77824,Furosemida,40mg,Diurético,True,2025-10-23
+M-34544,Ibuprofeno,400mg,Anti-inflamatório,True,2025-10-24
+M-45145,Captopril,25mg,Anti-hipertensivo,False,2025-10-25
+M-37684,Enalapril,10mg,Anti-hipertensivo,False,2025-10-30
+M-27064,Simvastatina,20mg,Redutor de Colesterol (Hipolipemiante),False,2025-10-02
+M-61985,Omeprazol,20mg,Antiulceroso / Inibidor de bomba de prótons,True,2025-10-03
+M-55133,Metformina,850mg,Antidiabético oral,False,2025-10-16
+M-64805,Captopril,25mg,Anti-hipertensivo,False,2025-10-16
+M-39586,Hidroclorotiazida,25mg,Diurético / Anti-hipertensivo,True,2025-10-07
+M-31081,Metformina,850mg,Antidiabético oral,False,2025-10-07
+M-59763,Atenolol,50mg,Anti-hipertensivo (betabloqueador),False,2025-10-09
+M-27426,Lorazepam,1mg,Ansiolítico / Benzodiazepínico,True,2025-10-18
+M-13960,Diazepam,5mg,Ansiolítico / Relaxante muscular,False,2025-11-02
+M-84870,Clonazepam,2mg,Ansiolítico / Anticonvulsivante,True,2025-11-02
+M-13151,Clonazepam,2mg,Ansiolítico / Anticonvulsivante,True,2025-10-15
+M-54349,Diazepam,5mg,Ansiolítico / Relaxante muscular,True,2025-10-21
+M-57347,Paracetamol,750mg,Analgésico / Antitérmico,False,2025-11-04
+M-85773,Atenolol,50mg,Anti-hipertensivo (betabloqueador),True,2025-10-13
+M-34203,Losartana,50mg,Anti-hipertensivo,False,2025-10-03
+M-82316,Furosemida,40mg,Diurético,False,2025-10-27
+M-44134,Simvastatina,20mg,Redutor de Colesterol (Hipolipemiante),True,2025-10-19
+M-88702,Hidroclorotiazida,25mg,Diurético / Anti-hipertensivo,True,2025-11-04
+M-92836,Hidroclorotiazida,25mg,Diurético / Anti-hipertensivo,True,2025-11-06
+M-50783,Azitromicina,500mg,Antibiótico,True,2025-10-30
+M-53952,Paracetamol,750mg,Analgésico / Antitérmico,True,2025-10-12
+M-73388,Hidroclorotiazida,25mg,Diurético / Anti-hipertensivo,False,2025-10-24
+M-60257,Nimesulida,100mg,Anti-inflamatório,True,2025-10-03
+M-26003,Dipirona Sódica,1g,Analgésico / Antitérmico,True,2025-10-02
+M-67211,Clonazepam,2mg,Ansiolítico / Anticonvulsivante,False,2025-10-17
+M-96708,Metformina,850mg,Antidiabético oral,True,2025-10-02
+M-19948,Lorazepam,1mg,Ansiolítico / Benzodiazepínico,True,2025-10-21
+M-33777,Cetirizina,10mg,Antialérgico / Anti-histamínico,False,2025-11-09
+M-17315,Enalapril,10mg,Anti-hipertensivo,False,2025-10-18
+M-50365,Nimesulida,100mg,Anti-inflamatório,False,2025-10-08
+M-49649,Simvastatina,20mg,Redutor de Colesterol (Hipolipemiante),True,2025-11-03
+M-98982,Omeprazol,20mg,Antiulceroso / Inibidor de bomba de prótons,False,2025-10-17
+M-69560,Captopril,25mg,Anti-hipertensivo,False,2025-10-02
+M-25378,Dipirona Sódica,1g,Analgésico / Antitérmico,False,2025-10-26
+M-53564,Furosemida,40mg,Diurético,True,2025-11-05
+M-81363,Hidroclorotiazida,25mg,Diurético / Anti-hipertensivo,True,2025-11-04
+M-43348,Captopril,25mg,Anti-hipertensivo,False,2025-11-08
+M-15359,Azitromicina,500mg,Antibiótico,True,2025-10-10
+M-55038,Clonazepam,2mg,Ansiolítico / Anticonvulsivante,True,2025-10-11
+M-57766,Simvastatina,20mg,Redutor de Colesterol (Hipolipemiante),True,2025-11-02
+M-53503,Paracetamol,750mg,Analgésico / Antitérmico,True,2025-10-06
+M-58248,Furosemida,40mg,Diurético,False,2025-10-22
+M-48363,Ibuprofeno,400mg,Anti-inflamatório,False,2025-11-09
+M-22311,Losartana,50mg,Anti-hipertensivo,False,2025-10-24
+M-90371,Ibuprofeno,400mg,Anti-inflamatório,False,2025-11-09
+M-73532,Omeprazol,20mg,Antiulceroso / Inibidor de bomba de prótons,True,2025-10-06
+M-60247,Azitromicina,500mg,Antibiótico,False,2025-10-18
+M-86242,Captopril,25mg,Anti-hipertensivo,True,2025-11-01
+M-18042,Simvastatina,20mg,Redutor de Colesterol (Hipolipemiante),True,2025-10-07
+M-48846,Simvastatina,20mg,Redutor de Colesterol (Hipolipemiante),False,2025-10-12
+M-93259,Nimesulida,100mg,Anti-inflamatório,True,2025-10-19
+M-22477,Ibuprofeno,400mg,Anti-inflamatório,False,2025-10-13
+M-80181,Azitromicina,500mg,Antibiótico,True,2025-10-31
+M-15209,Omeprazol,20mg,Antiulceroso / Inibidor de bomba de prótons,True,2025-10-17
+M-19955,Omeprazol,20mg,Antiulceroso / Inibidor de bomba de prótons,False,2025-10-03
+M-79974,Captopril,25mg,Anti-hipertensivo,False,2025-10-31
+M-75304,Hidroclorotiazida,25mg,Diurético / Anti-hipertensivo,False,2025-10-09
+M-94611,Nimesulida,100mg,Anti-inflamatório,False,2025-11-08
+M-76648,Prednisona,20mg,Corticoide / Anti-inflamatório,True,2025-11-05
+M-84381,Amoxicilina,500mg,Antibiótico,False,2025-10-07
+M-84591,Captopril,25mg,Anti-hipertensivo,True,2025-10-08
+M-91035,Captopril,25mg,Anti-hipertensivo,True,2025-10-20
+M-34581,Omeprazol,20mg,Antiulceroso / Inibidor de bomba de prótons,False,2025-10-01
+M-31839,Ibuprofeno,400mg,Anti-inflamatório,False,2025-10-01
+M-61912,Metformina,850mg,Antidiabético oral,True,2025-11-01
+M-35482,Cetirizina,10mg,Antialérgico / Anti-histamínico,False,2025-10-14
+M-84300,Omeprazol,20mg,Antiulceroso / Inibidor de bomba de prótons,True,2025-10-18
+M-11347,Paracetamol,750mg,Analgésico / Antitérmico,False,2025-10-01
+M-69894,Simvastatina,20mg,Redutor de Colesterol (Hipolipemiante),False,2025-10-18
+M-97557,Captopril,25mg,Anti-hipertensivo,True,2025-10-27
+M-48865,Clonazepam,2mg,Ansiolítico / Anticonvulsivante,True,2025-11-07
+M-13113,Hidroclorotiazida,25mg,Diurético / Anti-hipertensivo,False,2025-10-14
+M-84080,Furosemida,40mg,Diurético,True,2025-11-09
+M-67422,Captopril,25mg,Anti-hipertensivo,False,2025-11-08
+M-31255,Enalapril,10mg,Anti-hipertensivo,True,2025-11-05
+M-76484,Metformina,850mg,Antidiabético oral,False,2025-10-27
+M-19393,Enalapril,10mg,Anti-hipertensivo,True,2025-10-18
+M-60166,Nimesulida,100mg,Anti-inflamatório,False,2025-10-25
+M-82497,Metformina,850mg,Antidiabético oral,True,2025-10-24
+M-24897,Nimesulida,100mg,Anti-inflamatório,False,2025-10-21
+M-90324,Metformina,850mg,Antidiabético oral,True,2025-10-20
+M-82091,Azitromicina,500mg,Antibiótico,False,2025-11-04
+M-48953,Furosemida,40mg,Diurético,False,2025-11-08
+M-85847,Cetirizina,10mg,Antialérgico / Anti-histamínico,True,2025-10-25
+M-97213,Simvastatina,20mg,Redutor de Colesterol (Hipolipemiante),True,2025-11-02
+M-94082,Prednisona,20mg,Corticoide / Anti-inflamatório,True,2025-10-06
+M-95491,Furosemida,40mg,Diurético,False,2025-10-25
+M-60091,Diazepam,5mg,Ansiolítico / Relaxante muscular,False,2025-11-01
+M-11177,Dipirona Sódica,1g,Analgésico / Antitérmico,False,2025-10-24
+M-34236,Cetirizina,10mg,Antialérgico / Anti-histamínico,True,2025-10-05
+M-49427,Hidroclorotiazida,25mg,Diurético / Anti-hipertensivo,False,2025-11-01
+M-51165,Furosemida,40mg,Diurético,True,2025-10-10
+M-69222,Paracetamol,750mg,Analgésico / Antitérmico,True,2025-10-11
+M-52929,Nimesulida,100mg,Anti-inflamatório,False,2025-10-29
+M-63361,Prednisona,20mg,Corticoide / Anti-inflamatório,True,2025-10-20
+M-12145,Prednisona,20mg,Corticoide / Anti-inflamatório,False,2025-10-30
+M-90687,Atenolol,50mg,Anti-hipertensivo (betabloqueador),False,2025-10-02
+M-23028,Lorazepam,1mg,Ansiolítico / Benzodiazepínico,False,2025-10-01
