@@ -5,7 +5,7 @@ from langchain_community.document_loaders import PyMuPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import FAISS
-from langchain_classic.chains.retrieval_qa.base import RetrievalQA
+from langchain.chains.retrieval_qa.base import RetrievalQA
 
 # === 1. Configuração inicial ===
 load_dotenv()
