@@ -11,9 +11,6 @@ from langchain_classic.chains.retrieval_qa.base import RetrievalQA
 load_dotenv()
 st.set_page_config(page_title="🔬 Consulta de medicamentos", layout="wide")
 
-    st.error("⚠️ A variável OPENAI_API_KEY não foi encontrada no arquivo `.env`.")
-    st.stop()
-
 pdf_file = st.file_uploader("📄 Envie o documento do medicamento com os lotes com o Manual de uso (PDF ou CSV)", type=["pdf", "csv"])
 
 if pdf_file:
